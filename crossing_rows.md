@@ -1,3 +1,5 @@
+https://python-book.softuni.bg/chapter-09-problems-for-champions.html
+
 Задача: пресичащи се редици
 
 Имаме две редици:
